@@ -1,6 +1,6 @@
 # WaveConnect SE
 
-https://github.com/freshfroiz/WaveConnect-SE/blob/main/App%20Splash.png?raw=true
+![WC-SE Logo](https://github.com/freshfroiz/WaveConnect-SE/blob/main/App%20Splash.png?raw=true)
 
 WaveConnect SE is a Python program that allows you to connect your MIDI keyboard into Scratch, using keyboard shortcuts.
 At the moment, it is limited to note presses from MIDI note 48-72, however this will be changed in the full version.
